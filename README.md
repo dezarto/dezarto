@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHdP60vsYMdiA/profile-displaybackgroundimage-shrink_350_1400/0/1717350230091?e=1723680000&v=beta&t=j8SrT6PSzG0kSTzJzPVcYErNeWgQuy35b36tWKXSuEo)
 ![](https://komarev.com/ghpvc/?username=dezarto&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">

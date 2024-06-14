@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHdP60vsYMdiA/profile-displaybackgroundimage-shrink_350_1400/0/1717350230091?e=1723680000&v=beta&t=j8SrT6PSzG0kSTzJzPVcYErNeWgQuy35b36tWKXSuEo)
 ![](https://komarev.com/ghpvc/?username=dezarto&color=blue)
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
+ <a href="https://github.com/dezarto">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Semir+Kimyonşen+%e2%9c%a8;%f0%9f%93%9a+Computer+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
@@ -11,13 +11,13 @@
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **.NET Core**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Embedded Systems**
 
-- 📫 How to reach me **cagatayakkas9191@gmail.com**
+- 📫 How to reach me **semir.kimyonsen@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/dezarto/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dezarto?theme=unicorn)](https://leetcode.com/dezarto/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

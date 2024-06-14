@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dezarto&show_icons=true&locale=en" alt="dezarto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dezarto&" alt="dezarto" /></p>
-
-![snake gif](https://github.com/dezarto/dezarto/blob/output/github-contribution-grid-snake.gif)

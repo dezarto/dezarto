@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **semir.kimyonsen@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/dezarto?theme=unicorn)](https://leetcode.com/dezarto/)
+// [![Leetcode Stats](https://leetcard.jacoblin.cool/dezarto?theme=unicorn)](https://leetcode.com/dezarto/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

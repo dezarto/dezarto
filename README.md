@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/D4D16AQHdP60vsYMdiA/profile-displaybackgroundimage-shrink_350_1400/0/1717350230091?e=1723680000&v=beta&t=j8SrT6PSzG0kSTzJzPVcYErNeWgQuy35b36tWKXSuEo](https://media.licdn.com/dms/image/v2/D4D16AQHdP60vsYMdiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347596840?e=1733961600&v=beta&t=C2BLjI_jGaAbemqoZEuJ58UUR-kAYouFhHZfoY6nlr8))
+![ResimYüklenemiyor...](https://media.licdn.com/dms/image/v2/D4D16AQHdP60vsYMdiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347596840?e=1733961600&v=beta&t=C2BLjI_jGaAbemqoZEuJ58UUR-kAYouFhHZfoY6nlr8)
 ![](https://komarev.com/ghpvc/?username=dezarto&color=blue)
 <div align="center">
  <a href="https://github.com/dezarto">

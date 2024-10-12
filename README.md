@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Embedded Systems**
 
-- 📫 How to reach me **semir.kimyonsen@gmail.com**
+- 📫 How to reach me **look my linkedin account**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

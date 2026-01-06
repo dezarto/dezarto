@@ -1,4 +1,4 @@
-![ResimYüklenemiyor...](https://media.licdn.com/dms/image/v2/D4D16AQHdP60vsYMdiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347596840?e=1752105600&v=beta&t=s5ZlZb9I32nDBHQJIFnadAmv7kLF-gdaWvTiQoUINls)
+![ResimYüklenemiyor...](https://media.licdn.com/dms/image/v2/D4D16AQHdP60vsYMdiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719347596840?e=1769040000&v=beta&t=yh65NZuCzMNxnhiFRu6ziiZvqY46ViHlxRcL3ix1DkY)
 ![](https://komarev.com/ghpvc/?username=dezarto&color=blue)
 <div align="center">
  <a href="https://github.com/dezarto">
